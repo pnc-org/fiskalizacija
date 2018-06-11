@@ -4,6 +4,7 @@
     "homepage": "http://github.com/nticaric/fiskalizacija",
     "license": "MIT",
     "type": "library",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Nenad Ticaric",
